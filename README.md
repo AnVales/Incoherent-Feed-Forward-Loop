@@ -1,2 +1,2 @@
 # Incoherent-Feed-Forward-Loop
-Modeling of Incoherent Feed Forward Loop type 1
+Modeling an Incoherent Feed Forward Loop type 1
